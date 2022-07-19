@@ -25,6 +25,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - CSS Margin and Padding
 
+### Page Link
+
+- https://mateuskuhl.github.io/QR-Code-Challenge/
 
 ### Project
 
