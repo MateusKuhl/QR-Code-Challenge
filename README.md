@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
+  - [Page Link](#page-link)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
@@ -19,17 +19,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](images/QR%20Code%20-%20Screenshot.png)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Margin and Padding
 
+### Page Link
+
+- https://mateuskuhl.github.io/QR-Code-Challenge/
 
 ### Project
 
